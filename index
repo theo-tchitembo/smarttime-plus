@@ -1,0 +1,4 @@
+echo "" >> index.html
+git add index.html
+git commit -m "Force rebuild GitHub Pages"
+git push
